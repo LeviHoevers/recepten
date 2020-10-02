@@ -1,0 +1,44 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	background-color: white;
+}
+
+div{
+	width: 600px;
+	margin: 0 auto;
+}
+
+a{
+	background-color: white;
+	padding: 20px;
+}
+
+.pagina a.active{
+	background-color: orange;
+	color: white;
+}
+
+.pagina a{
+	color: black;
+	padding: 16px 8px;
+	text-decoration: none;
+}
+
+h1{
+	font-size: 36px;
+	line-height: 36px;
+	border-bottom: 1px solid black;
+	padding-bottom: 20px;
+}
+h2,h3{
+	font-size: 32px;
+	line-height: 32px;
+}
+li{
+	margin-bottom: 20px
+}
+
+
+.banaan {
+	width: 50%;
+}
